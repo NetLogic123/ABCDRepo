@@ -7,8 +7,7 @@ public class HelloWorldTest {
 public void Login()
 {
 	System.out.println("Hello World");
-	
-	System.out.println("Hello World123456789");
+	System.out.println("Hello World123");
 }
 	
 	
